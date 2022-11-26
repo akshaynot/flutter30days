@@ -41,8 +41,6 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: const <Widget>[
             Text("this is showing"),
-            Text("Also this"),
-            Text("Also this"),
             Text("this is showing"),
           ],
         ),
